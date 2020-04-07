@@ -10,4 +10,4 @@ This tutorial project cover how to:
 - html5: data-attribute
 - css3: positioning, flexbox, perspective, backface-visibility, transitions
 
-<img width="300" alt="Screen Shot" src="https://user-images.githubusercontent.com/56839789/78677188-ba80c080-78e7-11ea-9eac-870dd8ccfa97.gif">
+<img width="500" alt="Screen Shot" src="https://user-images.githubusercontent.com/56839789/78677188-ba80c080-78e7-11ea-9eac-870dd8ccfa97.gif">
