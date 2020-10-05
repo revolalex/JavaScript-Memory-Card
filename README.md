@@ -1,5 +1,7 @@
 # JavaScript-Memory-Card
 
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frevolalex%2FJavaScript-Memory-Card" alt="Hits">.
+
 This tutorial project cover how to:
 
 - select elements in the DOM with querySelector
